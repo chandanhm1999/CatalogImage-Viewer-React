@@ -1,5 +1,13 @@
 ### Getting Started with Create React App
 
+### Get The Code
+
+## git clone
+
+``` 
+https://github.com/chandanhm1999/CatalogImage-Viewer-React
+```
+
 >Implementig a catalog viewer for a collection of images.
 
 ![catlogpt](https://user-images.githubusercontent.com/109410990/235488458-815774f6-9936-4387-b544-2b4b5d1eb955.png)
