@@ -1,9 +1,10 @@
+import CatalogViewer from "./components/CatalogViewer"
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      Chandan HM
+      <CatalogViewer />
     </div>
   );
 }
